@@ -7,6 +7,32 @@ body {
   background-color: lightblue;
 }
 
+p {
+  font-family: impact;
+}
+
 canvas {
   background: #232323;
+}
+
+table, tr, td {
+  border: 1px solid black;
+  font-family: verdana;
+  color: black;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  text-align: center;
+}
+
+tr:hover {
+  background-color: #feaa;
+}
+
+td:nth-child(even) {
+  background-color: #aeae;
 }
