@@ -1,2 +1,2 @@
 # noteams-Website
-just for the lolz
+The serious version.
