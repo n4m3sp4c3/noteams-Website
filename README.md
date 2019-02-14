@@ -1,2 +1,2 @@
 # noteams-Website
-The serious version.
+BRUH
