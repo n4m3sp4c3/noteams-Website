@@ -39,7 +39,7 @@ td:nth-child(even) {
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #lightblue;
+  background-color: #grey;
   overflow: hidden;
 }
 
@@ -55,12 +55,12 @@ td:nth-child(even) {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #aaa;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #666699;
   color: white;
 }
