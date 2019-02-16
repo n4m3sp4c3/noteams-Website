@@ -1,3 +1,8 @@
+
 Connecting Dots (canvas effect): https://codepen.io/LeonGr/pen/yginI
+
 bruh-sound-effect: https://www.myinstants.com/instant/bruh/
+
 Bruh-thumnail: https://i.ytimg.com/vi/oJ2IlT9-t00/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDvQhZObjb7jAzmoO_rlIeRW-q18A
+
+Rainbow effect: https://codepen.io/cb_rn/pen/OVXXmj
