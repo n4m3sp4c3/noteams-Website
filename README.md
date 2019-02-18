@@ -1,6 +1,6 @@
 # noteams-Website
 
-Known bugs & issues:
+  Known bugs & issues:
 
 - Subcounter not working in Brave Browser
 
